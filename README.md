@@ -11,9 +11,6 @@ SimpliAsk is a platform that has integrated logging systems, patient health chec
 ## How I built it
 The login and sign-up pages for SimpliAsk were made from react-native and CSS. In the backend of the verification pages, I used a database to safely store the login credentials of patients and doctors. The functionality of the app was coded in python scripts and was used through a Rest API. I used Firebase to create a real-time chat between patients and doctors.  
 
-## Challenges I ran into
-Some challenges that I faced while developing SimpliAsk was using a python script to create a voice-assistant. It required many components including ... I also had some trouble with ...
-
 ## What I learned
 During the designing and development of SimpliAsk I learning how to use react-native and create an app which can be accessed by both doctors and patients. I also learned how to implement a database and a Rest API to the backend of our project. Overall, this project allowed us to strengthen our skills in using a variety of programming languages and integrating them together for a great application.
 
